@@ -21,7 +21,7 @@ const projects = [
     title: "Portfólio Pessoal",
     description: "Este próprio portfólio que você está acessando. Construído para demonstrar minhas habilidades com ferramentas modernas de front-end. O projeto integra animações fluidas e design responsivo.",
     tags: ["React", "Vite", "Tailwind CSS", "Framer Motion"],
-    githubUrl: "https://github.com/sanDRo1212834/portfolio", 
+    githubUrl: "https://github.com/sanDRo1212834/Portf-lio", 
     liveUrl: "#",
     imageUrl: "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1000&auto=format&fit=crop" 
   }
